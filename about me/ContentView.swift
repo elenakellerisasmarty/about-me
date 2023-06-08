@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Text ("about elena"){
-                Button("about me") {
+                Button("About me") {
                 }
                 Image("pancakes copy")
                     .resizable(resizingMode:.stretch)
